@@ -1,2 +1,2 @@
-# IBMCapstonProject
-Its a markdown file in this repository
+# IBMCapstoneProject
+It's a markdown file in this repository
